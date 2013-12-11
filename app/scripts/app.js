@@ -1,6 +1,11 @@
 'use strict';
 
-angular.module('vandyTestBankApp', [])
+angular.module('vandyTestBankApp', [
+  'ngCookies',
+  'ngResource',
+  'ngSanitize',
+  'ngRoute'
+])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
