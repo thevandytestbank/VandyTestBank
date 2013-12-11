@@ -7,7 +7,3 @@ This repository is a free test bank for Vanderbilt University students. No charg
 #### Contributing
 
 You can email pictures or pdfs of your tests to <a href="thevandytestbank@gmail.com">thevandytestbank@gmail.com</a>. Pdf's are preferred.
-
-
-
-&reg; Power to the User
